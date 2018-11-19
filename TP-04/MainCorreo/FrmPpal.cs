@@ -61,7 +61,7 @@ namespace MainCorreo
 
         /// <summary>
         ///     Manejador de evento asociado al evento Load:
-        ///         Crea una nueva instancia de la clase Correo.
+        ///         Crea una nueva instancia de la clase Correo
         /// </summary>
         /// <param name="sender">
         ///     (object) Emisor del evento.
